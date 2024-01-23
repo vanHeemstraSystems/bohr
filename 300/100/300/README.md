@@ -8,6 +8,16 @@ In this example, we'll create a Svelte project and name it "my-app". See [Creati
 wvanheemstra@bohr.io:/app $ npm create svelte@latest my-app
 ```
 
+For the options offered, choose:
+
+- Which Svelte app template: Skeleton project
+- Add type checking with TypeScript?: Yes, using TypeScript syntax
+- Select additional options (use arrow keys/space bar):
+  - Add ESLint for code linting
+  - Add Prettier for code formatting
+  - Add Playwright for browser testing
+  - Add Vitest for unit testing
+
 Now, navigate to your new Svelte project folder by typing:
 
 ```
