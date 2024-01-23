@@ -45,6 +45,16 @@ Set environment variables for your build script and add-ons.
 
 Finally, click **IMPORT**.
 
+**TIP**: In case the import would fail, you can manually install bohr npm package on the repository as follows:
+
+```
+$ git clone https://github.com/agility-game/home.git
+$ cd home
+$ npx -y bohr@latest dev
+```
+
+**Commit you changes to the repository after the install of bohr!!**
+
 There you go. 
 
 Now, bohr.io will be installed in your GitHub repository, and your project will be deployed on bohr.io (here at: ```agility-game.bohr.io```). 
