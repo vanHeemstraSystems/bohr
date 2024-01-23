@@ -49,9 +49,11 @@ Finally, click **IMPORT**.
 
 ```
 $ git clone https://github.com/agility-game/home.git
-$ cd home
+$ cd home/my-app
 $ npx -y bohr@latest dev
 ```
+
+**NOTE**: It is important that the bohr package gets installed **inside** your ```my-app``` directory, so **not** in the root of the repository outside of the app directory!
 
 **Commit you changes to the repository after the install of bohr!!**
 
