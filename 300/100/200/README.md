@@ -2,7 +2,7 @@
 
 To import a project, go to the [projects page](https://bohr.io/projects), click "Add a New Project," and then click "Import from Github" (or go directly to https://bhor.io/projects/new/import). 
 
-Now, select the repository with the project you want to import (e.g. ```https://github.com/agility-game/agility-game-home```). At this stage, you may need to grant permissions to bohr.io if you haven't done so earlier.
+Now, select the repository with the project you want to import (e.g. ```https://github.com/agility-game/home```). At this stage, you may need to grant permissions to bohr.io if you haven't done so earlier.
 
 Next, define the desired subdomain (e.g. ```agility-game```), domain (e.g. ```bohr.io```), and desired environment variables.
 
@@ -10,7 +10,7 @@ Here is an example of our settings (based on the ```package.json``` file inside 
 
 **Project**
 
-Github repository: https://github.com/agility-game/agility-game-home
+Github repository: https://github.com/agility-game/home
 
 **Domain**
 
