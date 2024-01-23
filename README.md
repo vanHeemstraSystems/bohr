@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+bohr
+# Bohr
 
-Based on "ABC" at https://www.abc.com/
+Based on "Bohr" at https://bohr.io
+
+bohr.io is a serverless platform designed for people starting to program, perfect for making your first deployments, whether for a portfolio, college project, job interview test, or any other project.
 
 ## 100 - Introduction
 
