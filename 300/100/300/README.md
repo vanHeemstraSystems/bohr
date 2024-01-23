@@ -6,9 +6,17 @@ In this example, we'll create a Svelte project and name it "my-app". See [Creati
 
 ```
 wvanheemstra@bohr.io:/app $ npm create svelte@latest my-app
-cd my-app
+```
+
+Now, navigate to your new Svelte project folder by typing:
+
+```
+$ cd my-app
+```
+
+To install and run the development environment you can optionally type the following:
+
+```
 npm install
 npm run dev
 ```
-
-MORE ...
