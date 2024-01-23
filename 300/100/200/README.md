@@ -39,6 +39,8 @@ Set environment variables for your build script and add-ons.
 
 ```Leave blank for now```
 
+**WARNING**: Make sure your latest changes to your Github repository have been committed and pushed to your Github repository should you have edited remotely (such as in GitPod) before continuing.
+
 Finally, click **IMPORT**.
 
 There you go. 
