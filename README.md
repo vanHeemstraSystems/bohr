@@ -5,6 +5,8 @@ Based on "Bohr" at https://bohr.io
 
 Based on "Bohr - Demo" at https://www.youtube.com/watch?v=QVdKlQExFxY
 
+Based on "Presenting Bohr.io (in English) at https://www.youtube.com/watch?v=vEfcs_oqOzI
+
 bohr.io is a serverless platform designed for people starting to program, perfect for making your first deployments, whether for a portfolio, college project, job interview test, or any other project.
 
 ## 100 - Introduction
