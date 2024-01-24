@@ -6,6 +6,10 @@ Next, set the desired subdomain, domain, username, and GitHub repository. At thi
 
 There you go! Your project is already live and ready to be accessed. Now, you can edit your code and take advantage of bohr.io’s CI/CD along with GitHub Actions for automatic deployments of your changes.
 
-## 100 - Example of using a template
+## 100 - Example of using a public template
 
 See [README.md](./100/README.md)
+
+## 200 - Using our own template
+
+See [README.md](./200/README.md)
