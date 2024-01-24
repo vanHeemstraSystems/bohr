@@ -25,23 +25,39 @@ Github repository: https://github.com/agility-game/home
 
 Set the build and development commands for your project.
 
-**FRAMESET PRESET**: ``` ``` (leave blank if not in the list, like Svelte)
+**FRAMESET PRESET**: ```leave blank```
 
 **BUILD COMMAND**: ```npm run build```
 
-**ROOT DIRECTORY**: ```my-app```
+**ROOT DIRECTORY**: ```leave blank```
 
-**OUTPUT DIRECTORY**: ```src```
+**OUTPUT DIRECTORY**: ```leave blank```
 
 **INSTALL COMMAND**: ```npm install```
 
-**DEVELOPMENT COMMAND**: ```npm run dev```
+**DEVELOPMENT COMMAND**: ```next dev --port $PORT```
 
 **Environment variables**
 
 Set environment variables for your build script and add-ons.
 
-```Leave blank for now```
+| name | value | secret |
+| -- | -- | -- |
+| BOHR_WEB_ADAPTER | 1 | |
+| BOHR_WEB_ADAPTER_TYPE | nextjs ||
+| DATABASE_URL | postgres://boemekeld:kXfwz4NJAgl7@ep-super-term-409322.us-east-2.aws.neon.tech/neondb?sslmode=require | |
+| EMAIL_HTTP_HOST | localhost | |
+| EMAIL_HTTP_PORT | 1080 | |
+| EMAIL_SMTP_HOST | localhost | |
+| EMAIL_SMTP_PORT | 1025 | |
+| POSTGRES_DB | neondb | |
+| POSTGRES_HOST | ep-super-term-409322.us-east-2.aws.neon.tech | |
+| POSTGRES_PASSWORD | kXfwz4NJAgl7 | X |
+| POSTGRES_PORT | 5432 | |
+| POSTGRES_USER | boemekeld | |
+| VERCEL_ENV | 1 | |
+| WEBSERVER_HOST | localhost | |
+| WEBSERVER_PORT | 3000 | |
 
 **WARNING**: Make sure your latest changes to your Github repository have been committed and pushed to your Github repository should you have edited remotely (such as in GitPod) before continuing.
 
