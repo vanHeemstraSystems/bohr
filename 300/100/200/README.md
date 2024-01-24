@@ -67,7 +67,7 @@ Finally, click **IMPORT**.
 
 ```
 $ git clone https://github.com/agility-game/home.git
-$ cd home/my-app
+$ cd home
 $ npx -y bohr@latest dev
 ```
 
@@ -81,4 +81,4 @@ Now, bohr.io will be installed in your GitHub repository, and your project will 
 
 Once it's finished, your project will already be live and ready to be accessed (here at: https://agility-game.bohr.io). 
 
-Now, you can edit your code (go to https://bohr.io/agility-game/agility-game-home)) and take advantage of bohr.io’s CI/CD along with GitHub Actions for automatic deployments of your changes.
+Now, you can edit your code (go to https://bohr.io/agility-game/home)) and take advantage of bohr.io’s CI/CD along with GitHub Actions for automatic deployments of your changes.
