@@ -94,7 +94,13 @@ After a few seconds you will be shown the **Overview** page at https://bohr.io/a
 
 Now you can click **View Project** to view your web page at different screen sizes and on different devices (such as desktop, mobile phone, tablet).
 
+**WARNING**: Despite explicitely selecting agility-game/bohr-test as the designated repository where we expected the project to be created, instead bohr create **a new repository** at agility-game/tabnewscombr. However, since we set ```bohr-test``` as the subdomain, the **live version of the project** is actually at https://bohr-test.bohr.io
 
+Browse the code in https://github.com/agility-game/tabnewscombr to see how it all works. If you push a change to the ```main``` branch, bohr will start a GitHub Action () to publish the website automatically with the latest changes included.
 
-MORE ...
+**NOTE**: On https://bohr.io/agility-game/tabnewscombr/preview/branch/main you can also choose from the following:
+
+- **View the Live version** (yellow icon): this opens in a new tab the live version at https://bohr-test.bohr.io
+- **GitHub**: this will bring you to the GitHub repository at https://github.com/agility-game/tabnewscombr
+- **Visual Studio Code**: this will open a browser-based IDE. You can commit changes made in VS Code directly to the GitHub repository.
 
