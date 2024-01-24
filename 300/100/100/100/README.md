@@ -86,5 +86,15 @@ When showing the target repositories in GitHub select ```agility-game```.
 
 You will be able to select either ```All repositories``` or ```Only select repositories```. In our case select just ```agility-game/bohr-test```. Click **Save**. **NOTE**: If the Save button is disabled, because you previously already selected the repositories to give access to, you can enable the Save button again by choosing first ```All repositories```, then ```Only select repositories``` again.
 
+You will be redirected to https://bohr.io to review the template variables. Remember to enter ```bohr-test``` for the subdomain. And check the box for **secret** for the Environment Variable ```POSTGRES_PASSWORD```.
 
+Click **PUBLISH**, now that we have authorized Bohr.
+
+After a few seconds you will be shown the **Overview** page at https://bohr.io/agility-game/tabnewscombr
+
+Now you can click **View Project** to view your web page at different screen sizes and on different devices (such as desktop, mobile phone, tablet).
+
+
+
+MORE ...
 
