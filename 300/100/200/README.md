@@ -47,7 +47,7 @@ Set environment variables for your build script and add-ons.
 | -- | -- | -- |
 | BOHR_WEB_ADAPTER | 1 | |
 | BOHR_WEB_ADAPTER_TYPE | nextjs ||
-| DATABASE_URL | postgresql://wvanheemstra:************@ep-misty-mode-487953.eu-central-1.aws.neon.tech/neondb?sslmode=require | |
+| DATABASE_URL | postgresql://wvanheemstra:************@ep-misty-mode-487953.eu-central-1.aws.neon.tech/neondb?sslmode=require | X |
 | EMAIL_HTTP_HOST | localhost | |
 | EMAIL_HTTP_PORT | 1080 | |
 | EMAIL_SMTP_HOST | localhost | |
