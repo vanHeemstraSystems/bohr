@@ -1,4 +1,4 @@
-# 100 - Example of using a template
+# 100 - Example of using a public template
 
 Create a dummy repository in GitHub to host the new to be created project. We name it ```bohr-test``` at https://github.com/agility-game/bohr-test.git.
 
