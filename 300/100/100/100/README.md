@@ -60,8 +60,27 @@ Set environment variables for your build script and add-ons.
 
 Follow by clicking the button **PUBLISH**.
 
+The first time, you will be prompted as follows:
 
+```
+PERMISSION ERROR
 
+We need repository permission to publish in your organization
+```
+
+Click the button **GO TO GITHUB**
+
+In the GitHub dialog Grant access to ```agility-game``` and click the button **Authorize bohr-io**.
+
+Your will be prompted as follows:
+
+```
+Sorry! We need some permissions first!
+
+We ask you to install and authorize our app within your GitHub account so bohr.io can give to you all the power for creating and launching your projects its deploys and more. By clicking the button below, you'll see the screen aside, follow the instructions and happy deploying!
+```
+
+Click the button **INSTALL & AUTHORIZE**
 
 
 
