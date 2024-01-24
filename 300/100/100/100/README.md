@@ -82,5 +82,9 @@ We ask you to install and authorize our app within your GitHub account so bohr.i
 
 Click the button **INSTALL & AUTHORIZE**
 
+When showing the target repositories in GitHub select ```agility-game```.
+
+You will be able to select either ```All repositories``` or ```Only select repositories```. In our case select just ```agility-game/bohr-test```. Click **Save**. **NOTE**: If the Save button is disabled, because you previously already selected the repositories to give access to, you can enable the Save button again by choosing first ```All repositories```, then ```Only select repositories``` again.
+
 
 
