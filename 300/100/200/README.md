@@ -41,6 +41,8 @@ Set the build and development commands for your project.
 
 Set environment variables for your build script and add-ons.
 
+**NOTE**: Replace underneath ************ with the actual neondb password which you can find after logging in with username ```wvanheemstra``` at https://console.neon.tech.
+
 | name | value | secret |
 | -- | -- | -- |
 | BOHR_WEB_ADAPTER | 1 | |
