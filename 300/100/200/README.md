@@ -45,16 +45,16 @@ Set environment variables for your build script and add-ons.
 | -- | -- | -- |
 | BOHR_WEB_ADAPTER | 1 | |
 | BOHR_WEB_ADAPTER_TYPE | nextjs ||
-| DATABASE_URL | postgres://boemekeld:kXfwz4NJAgl7@ep-super-term-409322.us-east-2.aws.neon.tech/neondb?sslmode=require | |
+| DATABASE_URL | postgresql://wvanheemstra:************@ep-misty-mode-487953.eu-central-1.aws.neon.tech/neondb?sslmode=require | |
 | EMAIL_HTTP_HOST | localhost | |
 | EMAIL_HTTP_PORT | 1080 | |
 | EMAIL_SMTP_HOST | localhost | |
 | EMAIL_SMTP_PORT | 1025 | |
 | POSTGRES_DB | neondb | |
-| POSTGRES_HOST | ep-super-term-409322.us-east-2.aws.neon.tech | |
-| POSTGRES_PASSWORD | kXfwz4NJAgl7 | X |
+| POSTGRES_HOST | ep-misty-mode-487953.eu-central-1.aws.neon.tech | |
+| POSTGRES_PASSWORD | ************ | X |
 | POSTGRES_PORT | 5432 | |
-| POSTGRES_USER | boemekeld | |
+| POSTGRES_USER | wvanheemstra | |
 | VERCEL_ENV | 1 | |
 | WEBSERVER_HOST | localhost | |
 | WEBSERVER_PORT | 3000 | |
