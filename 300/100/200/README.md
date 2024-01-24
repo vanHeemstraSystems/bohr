@@ -71,7 +71,7 @@ $ cd home
 $ npx -y bohr@latest dev
 ```
 
-**NOTE**: It is important that the bohr package gets installed **inside** your ```my-app``` directory, so **not** in the root of the repository outside of the app directory!
+**NOTE**: If you are behind a (corporate) firewall the above command may fail, because the login procedure is blocked by the firewall! Try it from your home computer and network instead.
 
 **Commit you changes to the repository after the install of bohr!!**
 
